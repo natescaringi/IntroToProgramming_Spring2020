@@ -2,11 +2,7 @@
 
 # This is Nate Scaringi's README for Intro To IntroToProgramming_Spring2020 #
 
-
-
-
-
-
+**More tests!**
 
 Alright, I think I **did it**
 
