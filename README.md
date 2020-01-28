@@ -1,4 +1,13 @@
 # IntroToProgramming_Spring2020
+
+# This is Nate Scaringi's README for Intro To IntroToProgramming_Spring2020 #
+
+
+
+
+
+
+
 Alright, I think I **did it**
 
 _This is further testing of the correlation between Atom, Github, and Github desktop_
