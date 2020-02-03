@@ -73,3 +73,31 @@ Going one level higher than this, programming languages are effectively systems 
   _An algorithm management system_
 
 ## So why are programmers so intense about languages?
+
+  In the world of programming, languages are everything. People pay attention to them like sports teams, or if you're in audio, DAWs. It's important that programmers are versatile across a number of different languages. It's common for programmers to frequently read about new languages on blogs or forums, download them, and try them out themselves. Similar to how audio engineers will read about different DAWs and fool around with them.
+
+The most common languages are:
+
+  1. Java
+  2. C
+  3. C++
+  4. C#
+  5. JavaScript
+  6. Python
+
+Plus more languages than you can count.
+
+Part of what makes programming languages so unique is that most of them are free. This allows for a huge amount of collaboration amongst a huge number of people.
+
+  *creating a successful language will win you the greatest prize of them all, Glory.*
+
+### The Beauty of the Standard Library
+
+The true measure of a good language is its standard library. Effectively, a language is software for making software, and its standard library is sets of code that one can reuse and reapply all across your projects. A good standard library is a huge part of making a language fast and usable.
+
+## And now since this is a massive article and I've been in sessions until 6 am every day this week, this is where my outline will stop.
+
+  I read the majority of the article and I'm feeling _a lot_ more comfortable using markdown!
+
+  __It's fun__
+  
