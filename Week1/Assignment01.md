@@ -25,3 +25,13 @@ Turns out your website is garbage and theres some person in a **taupe** blazer w
   And you don't want to because you're:
 
     1. More frugal than Mr. Krabs
+
+
+# Why are you in this position?#
+
+## Because you don't know what code is##
+
+### So let's find out###
+
+
+ 
