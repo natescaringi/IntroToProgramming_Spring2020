@@ -27,11 +27,26 @@ Turns out your website is garbage and theres some person in a **taupe** blazer w
     1. More frugal than Mr. Krabs
 
 
-# Why are you in this position?#
+#Why are you in this position?
 
-## Because you don't know what code is##
+##Because you don't know what code is
 
-### So let's find out###
+###So let's find out
 
+There are an estimated 11 million professional software developers. *at the time of writing*
+And apparently there are an additional 7 million that are hobbyists. *maybe more*
 
- 
+There are people that code for **EVERYTHING**
+
+Including:
+
+  1. Your TV
+  2. Your Phone
+  3. Your stupid Smart Watch
+  4. More things than you will ever realize
+
+>A computer is a clock with benefits. They all work the same, doing second-grade math, one step at a time: Tick, take a number and put it in box one. Tick, take another number, put it in box two. Tick, operate (an operation might be addition or subtraction) on those two numbers and put the resulting number in box one. Tick, check if the result is zero, and if it is, go to some other box and follow a new set of instructions.
+
+_This is also how my brain works_
+
+What differentiates a computer from a 7 year old however, is that a computer can do math problems a million billion times per second. Which allows it to do an absolutely insane amount of things that a 7 year old could do if given enough time, and was 7 for literally thousands of years.
