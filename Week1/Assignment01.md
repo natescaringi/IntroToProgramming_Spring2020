@@ -27,11 +27,11 @@ Turns out your website is garbage and theres some person in a **taupe** blazer w
     1. More frugal than Mr. Krabs
 
 
-#Why are you in this position?##
+# Why are you in this position?
 
-##Because you don't know what code is##
+## Because you don't know what code is
 
-###So let's find out###
+### So let's find out
 
 There are an estimated 11 million professional software developers. *at the time of writing*
 And apparently there are an additional 7 million that are hobbyists. *maybe more*
