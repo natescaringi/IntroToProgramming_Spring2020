@@ -50,3 +50,26 @@ Including:
 _This is also how my brain works_
 
 What differentiates a computer from a 7 year old however, is that a computer can do math problems a million billion times per second. Which allows it to do an absolutely insane amount of things that a 7 year old could do if given enough time, and was 7 for literally thousands of years.
+
+### How does code become software?
+#### Where's the line...
+
+In the _old days_ "code" meant putting holes in punch cards for massive computers to read. It would sort through the cards and then update little bits of memory that were applicable.
+
+Code can take a wide variety of forms, ranging from super low-level jibberish that 4 people can understand to doing simple commands in Excel or Scratch.
+
+
+## Algorithms
+
+> “Algorithm” is a word writers invoke to sound smart about technology. Journalists tend to talk about “Facebook’s algorithm” or a “Google algorithm,” which is usually inaccurate. They mean “software.”
+
+Fundamentally, algorithms solve problems.
+  For instance, Dijkstra's algorithm is one that finds the shortest path in a graph.
+
+  *and no, not a bar graph*
+
+Going one level higher than this, programming languages are effectively systems for encoding, naming, and organizing algorithms for reuse and application.
+
+  _An algorithm management system_
+
+## So why are programmers so intense about languages?
