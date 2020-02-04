@@ -38,3 +38,11 @@ The tabs represent the if then statements
 4.    sit down on the ground
 
 *You need to be specific as possible with computer code, computers are STUPID and will do anything LITERALLY. You gotta include stop functions otherwise it'll never stop*
+
+### "C"
+
+In "C" #include <stdio.h> - stdio means use standard library for C, always on the first line, defines the library for the code. 
+
+int main(void) - effectively telling C that you are talking to it in C
+ - printf = print function
+ \n = escape character
