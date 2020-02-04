@@ -28,3 +28,13 @@
 The syntax is structured so that you would go down the list and follow through with the if then statements.
 
 The tabs represent the if then statements
+
+### Pseudocode Exercise
+
+0. Look at clock
+1. If minute hand is on a written digit
+2.    jump up and down 3 times
+3. If minute hand is not on a written digit
+4.    sit down on the ground
+
+*You need to be specific as possible with computer code, computers are STUPID and will do anything LITERALLY. You gotta include stop functions otherwise it'll never stop*
