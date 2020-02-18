@@ -37,7 +37,14 @@ Some types of data types and conversions:
   - blocks begin with a "{" symbol, end with a "}" and the statements to be executed are placed between
   - blocks can be used any place where a single statement is allowed
   - no semicolon is needed at the end of a block
+
+  simple: int i=10;
+  compound:
+  {
+    int i;
+    i=10;
+  }
 ----------------------------------------------------------------
   - blocks can be nested inside each other, and can also be empty.
   - they are very important to recognize and understand them as they show up in a C program
-  - indent blocks to make shit easy to read. 
+  - indent blocks to make shit easy to read.
