@@ -29,4 +29,15 @@ Some types of data types and conversions:
   - floating-point %f (decimal)
   - string (sequence of characters - NOT arrays) %s
 
-  
+  **a conversion character is a placeholder for what information is going to go in/out**
+
+*Blocks (Compound statements)*
+
+  - a block is a group of statements that is treated by the compiler as if it were a single statement
+  - blocks begin with a "{" symbol, end with a "}" and the statements to be executed are placed between
+  - blocks can be used any place where a single statement is allowed
+  - no semicolon is needed at the end of a block
+----------------------------------------------------------------
+  - blocks can be nested inside each other, and can also be empty.
+  - they are very important to recognize and understand them as they show up in a C program
+  - indent blocks to make shit easy to read. 
