@@ -50,5 +50,15 @@ Some types of data types and conversions:
   - indent blocks to make shit easy to read.
 
 **Declaring a function (function prototype)**
+
   - to use a function in C, we need to tell the compuler about the number of parameters the function takes, data types of parameters and return type of function
-  - this process is called a function declaration and we do this by creating a function prototype. 
+  - this process is called a function declaration and we do this by creating a function prototype.
+  - declare a function before it gets used.
+
+*RAM*
+
+**Writing to RAM**
+address line - where data moves in 1 bit pulses of electricity
+data line - where data is stored, 8 of them for 1 byte
+transistor - switches signals (turnstile lul)
+capacitor - stores electricity
