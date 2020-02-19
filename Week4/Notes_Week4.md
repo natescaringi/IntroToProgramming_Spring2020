@@ -48,3 +48,7 @@ Some types of data types and conversions:
   - blocks can be nested inside each other, and can also be empty.
   - they are very important to recognize and understand them as they show up in a C program
   - indent blocks to make shit easy to read.
+
+**Declaring a function (function prototype)**
+  - to use a function in C, we need to tell the compuler about the number of parameters the function takes, data types of parameters and return type of function
+  - this process is called a function declaration and we do this by creating a function prototype. 
