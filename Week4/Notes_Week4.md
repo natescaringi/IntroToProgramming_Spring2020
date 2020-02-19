@@ -62,3 +62,10 @@ address line - where data moves in 1 bit pulses of electricity
 data line - where data is stored, 8 of them for 1 byte
 transistor - switches signals (turnstile lul)
 capacitor - stores electricity
+
+- address line pulse triggers data line pulses -> software then interprets those 8 pulses into 1 byte
+
+  - we can think of bytes, stored in RAM, as though they were a grid.
+  - in reality, there are millions/billions of bytes per chip
+  - in C, when we create a variable of type char %c which will be sized one byte it will be physically stored in one of those boxes in RAM.
+  - an integer takes up 4 bytes
